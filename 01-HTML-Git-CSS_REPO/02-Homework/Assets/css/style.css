@@ -1,0 +1,129 @@
+/*universal selector for the structure of our page so that the page extends right to the edge of the browser */
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+/* setting the background colour for the body of our page*/
+body {
+    background-color: #d9dcd6;
+}
+/*setting the Font for our text and the colour and display of the padding in the header */
+.header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color: #ffffff;
+}
+/* class for the text in our heading so that the 3 anchor links and the header that are shown display in-line*/
+.header h1 {
+    display: inline-block;
+    font-size: 48px;
+}
+/*class to show the "SEO" letters in the heading a different colour */
+.header h1 .seo {
+    color: #d9dcd6;
+}
+
+.header section {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+.header div ul {
+    list-style-type: none;
+}
+
+.header div ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
+/* class to show the main background image on the page */
+.hero {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+/* float the image in our subheading to the left */
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+/*float the image in our subheading to the right */
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.benefits {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+}
+/* changed the next 3 ID's to be the same as originally there was 3 of the same thing all just with a different name, unessecary */
+.benefit {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+.benefit- h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+.benefit img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+.subheading {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+.subheading img {
+    max-height: 200px;
+}
+.subheading h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+.footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+.footer {
+    font-size: 20px;
+}
