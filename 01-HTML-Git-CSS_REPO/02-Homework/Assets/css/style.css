@@ -73,12 +73,14 @@ p {
     margin-left: 25px;
 }
 
+/* class for the main content of the page within the subheadings down the centre of the page */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* class for the contents down the right hand side of the page */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -103,6 +105,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/* changed the next 3 ID's to be the same as originally there was 3 of the same thing all just with a different name, unessecary */
 .subheading {
     margin-bottom: 20px;
     padding: 50px;
@@ -118,6 +121,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* class for the footer text and layout */
 .footer {
     padding: 30px;
     clear: both;
