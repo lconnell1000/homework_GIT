@@ -25,6 +25,7 @@ body {
     color: #d9dcd6;
 }
 
+/*classes for our headers shown below */
 .header section {
     padding-top: 15px;
     margin-right: 20px;
@@ -47,6 +48,7 @@ a {
     text-decoration: none;
 }
 
+/* setting our font size for text with the P brackets */
 p {
     font-size: 16px;
 }
