@@ -24,7 +24,7 @@ The following image's show the pages subheadings and content, footer and sidebar
 > **Note**: This shows the footer of the page.
 
 ## A link to the webpage is shown below:
-
+https://lconnell1000.github.io/homework_GIT/
 
 
 ---
