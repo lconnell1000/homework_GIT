@@ -9,17 +9,17 @@ For this project we had to fix and tidy up some code that we were given for both
 
 The following image shows the web application's appearance 
 
-![The Horiseon webpage includes a navigation bar and header image](./Assets/screen-shot-1.png)
+![The Horiseon webpage includes a navigation bar and header image](screen-shot-1.png)
 
 > **Note**: This shows the landing page including the header image and navigation bar.
 
 The following image's show the pages subheadings and content, footer and sidebar
 
-![The Horiseon webpage includes subheadings with relevant content](./Assets/screen-shot-2.png)
+![The Horiseon webpage includes subheadings with relevant content](screen-shot-2.png)
 
 > **Note**: This shows the body of the page including the subheadings and sidebar.
 
-![The Horiseon webpage includes a footer](./Assets/screen-shot-3.png)
+![The Horiseon webpage includes a footer](screen-shot-3.png)
 
 > **Note**: This shows the footer of the page.
 
